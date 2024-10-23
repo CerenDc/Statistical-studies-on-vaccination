@@ -1,0 +1,1001 @@
+ID,Age,Vaccin,Dose,Région,Date de Vaccination
+1,50,Pfizer,Booster,Occitanie,2023-12-16
+2,67,Moderna,Deuxième dose,Auvergne-Rhône-Alpes,2023-11-03
+3,44,Johnson & Johnson,Deuxième dose,Occitanie,2023-01-30
+4,18,AstraZeneca,Première dose,Auvergne-Rhône-Alpes,2023-04-23
+5,63,Johnson & Johnson,Deuxième dose,Auvergne-Rhône-Alpes,2023-10-05
+6,43,Johnson & Johnson,Booster,Auvergne-Rhône-Alpes,2023-03-28
+7,26,AstraZeneca,Première dose,Île-de-France,2023-09-05
+8,67,Johnson & Johnson,Deuxième dose,Occitanie,2023-04-09
+9,43,Johnson & Johnson,Booster,Occitanie,2023-11-14
+10,54,AstraZeneca,Première dose,Auvergne-Rhône-Alpes,2023-10-28
+11,34,Moderna,Première dose,Occitanie,2023-03-01
+12,48,AstraZeneca,Booster,Auvergne-Rhône-Alpes,2023-09-10
+13,64,Moderna,Booster,Occitanie,2023-09-14
+14,51,AstraZeneca,Première dose,Occitanie,2023-11-09
+15,73,Johnson & Johnson,Booster,Nouvelle-Aquitaine,2023-01-28
+16,50,Johnson & Johnson,Première dose,Provence-Alpes-Côte d'Azur,2023-02-25
+17,78,Moderna,Booster,Provence-Alpes-Côte d'Azur,2023-08-21
+18,59,Moderna,Booster,Nouvelle-Aquitaine,2023-11-29
+19,52,Moderna,Booster,Occitanie,2023-04-06
+20,61,Pfizer,Booster,Occitanie,2023-01-25
+21,39,AstraZeneca,Deuxième dose,Île-de-France,2023-08-28
+22,45,AstraZeneca,Première dose,Occitanie,2023-01-18
+23,42,Pfizer,Booster,Auvergne-Rhône-Alpes,2023-01-09
+24,60,Moderna,Deuxième dose,Nouvelle-Aquitaine,2023-09-22
+25,32,Johnson & Johnson,Première dose,Île-de-France,2023-08-12
+26,51,AstraZeneca,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-05-30
+27,50,Johnson & Johnson,Deuxième dose,Nouvelle-Aquitaine,2023-04-23
+28,45,Johnson & Johnson,Booster,Auvergne-Rhône-Alpes,2023-03-19
+29,48,Pfizer,Première dose,Auvergne-Rhône-Alpes,2023-02-02
+30,68,Pfizer,Première dose,Île-de-France,2023-03-25
+31,21,Moderna,Deuxième dose,Auvergne-Rhône-Alpes,2023-01-14
+32,68,Johnson & Johnson,Deuxième dose,Occitanie,2023-03-23
+33,49,Johnson & Johnson,Booster,Occitanie,2023-11-29
+34,37,Pfizer,Première dose,Auvergne-Rhône-Alpes,2023-07-25
+35,29,Pfizer,Booster,Provence-Alpes-Côte d'Azur,2023-07-11
+36,54,Pfizer,Deuxième dose,Occitanie,2023-05-05
+37,46,AstraZeneca,Première dose,Auvergne-Rhône-Alpes,2023-12-16
+38,64,Johnson & Johnson,Booster,Occitanie,2023-03-28
+39,74,Johnson & Johnson,Deuxième dose,Auvergne-Rhône-Alpes,2023-12-27
+40,42,AstraZeneca,Deuxième dose,Occitanie,2023-01-22
+41,63,Pfizer,Première dose,Île-de-France,2023-07-09
+42,87,Moderna,Booster,Île-de-France,2023-07-25
+43,53,Moderna,Deuxième dose,Île-de-France,2023-09-24
+44,59,Pfizer,Deuxième dose,Île-de-France,2023-06-08
+45,40,Moderna,Première dose,Provence-Alpes-Côte d'Azur,2023-07-02
+46,62,Johnson & Johnson,Première dose,Auvergne-Rhône-Alpes,2023-11-02
+47,51,Moderna,Booster,Provence-Alpes-Côte d'Azur,2023-11-06
+48,78,Johnson & Johnson,Première dose,Occitanie,2023-11-23
+49,24,Johnson & Johnson,Booster,Île-de-France,2023-11-08
+50,58,Moderna,Deuxième dose,Auvergne-Rhône-Alpes,2023-11-30
+51,59,Moderna,Première dose,Provence-Alpes-Côte d'Azur,2023-08-30
+52,59,Johnson & Johnson,Booster,Auvergne-Rhône-Alpes,2023-06-19
+53,41,Johnson & Johnson,Première dose,Provence-Alpes-Côte d'Azur,2023-06-14
+54,21,Moderna,Première dose,Nouvelle-Aquitaine,2023-04-28
+55,54,Pfizer,Deuxième dose,Auvergne-Rhône-Alpes,2023-05-29
+56,45,AstraZeneca,Booster,Île-de-France,2023-07-18
+57,62,Johnson & Johnson,Première dose,Île-de-France,2023-10-04
+58,49,Johnson & Johnson,Booster,Occitanie,2023-11-26
+59,22,Johnson & Johnson,Deuxième dose,Occitanie,2023-01-01
+60,41,Pfizer,Première dose,Provence-Alpes-Côte d'Azur,2023-07-15
+61,80,Moderna,Première dose,Île-de-France,2023-08-22
+62,23,Pfizer,Deuxième dose,Île-de-France,2023-02-09
+63,38,Moderna,Booster,Auvergne-Rhône-Alpes,2023-07-03
+64,35,Moderna,Première dose,Provence-Alpes-Côte d'Azur,2023-09-13
+65,49,AstraZeneca,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-03-22
+66,62,Johnson & Johnson,Deuxième dose,Île-de-France,2023-02-27
+67,37,Pfizer,Booster,Nouvelle-Aquitaine,2023-11-04
+68,41,AstraZeneca,Booster,Provence-Alpes-Côte d'Azur,2023-05-13
+69,18,Johnson & Johnson,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-11-01
+70,62,Moderna,Deuxième dose,Auvergne-Rhône-Alpes,2023-05-02
+71,32,AstraZeneca,Booster,Île-de-France,2023-11-26
+72,43,AstraZeneca,Booster,Occitanie,2023-02-17
+73,47,Moderna,Deuxième dose,Île-de-France,2023-12-23
+74,55,Pfizer,Deuxième dose,Auvergne-Rhône-Alpes,2023-06-28
+75,40,Pfizer,Deuxième dose,Île-de-France,2023-08-21
+76,35,Pfizer,Booster,Île-de-France,2023-05-28
+77,69,AstraZeneca,Deuxième dose,Auvergne-Rhône-Alpes,2023-04-03
+78,39,AstraZeneca,Deuxième dose,Île-de-France,2023-01-28
+79,56,Moderna,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-04-30
+80,47,Johnson & Johnson,Booster,Nouvelle-Aquitaine,2023-05-12
+81,33,Pfizer,Deuxième dose,Auvergne-Rhône-Alpes,2023-08-03
+82,18,Johnson & Johnson,Deuxième dose,Île-de-France,2023-08-22
+83,37,Moderna,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-01-04
+84,50,Pfizer,Première dose,Occitanie,2023-05-16
+85,56,AstraZeneca,Première dose,Île-de-France,2023-04-12
+86,80,AstraZeneca,Première dose,Nouvelle-Aquitaine,2023-06-12
+87,43,Pfizer,Booster,Île-de-France,2023-10-15
+88,59,Johnson & Johnson,Première dose,Occitanie,2023-02-24
+89,41,Pfizer,Première dose,Île-de-France,2023-07-03
+90,53,Moderna,Booster,Occitanie,2023-11-19
+91,41,Johnson & Johnson,Booster,Provence-Alpes-Côte d'Azur,2023-07-24
+92,58,Pfizer,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-08-30
+93,41,AstraZeneca,Deuxième dose,Occitanie,2023-05-13
+94,38,Pfizer,Deuxième dose,Auvergne-Rhône-Alpes,2023-03-06
+95,44,Pfizer,Deuxième dose,Île-de-France,2023-03-25
+96,55,Johnson & Johnson,Booster,Île-de-France,2023-05-08
+97,45,Johnson & Johnson,Booster,Provence-Alpes-Côte d'Azur,2023-01-30
+98,64,Moderna,Première dose,Occitanie,2023-12-27
+99,24,Johnson & Johnson,Deuxième dose,Auvergne-Rhône-Alpes,2023-03-14
+100,25,AstraZeneca,Deuxième dose,Occitanie,2023-02-21
+101,47,AstraZeneca,Booster,Île-de-France,2023-01-31
+102,62,Pfizer,Première dose,Île-de-France,2023-03-27
+103,67,Pfizer,Première dose,Occitanie,2023-11-27
+104,68,AstraZeneca,Première dose,Provence-Alpes-Côte d'Azur,2023-11-09
+105,57,Pfizer,Booster,Île-de-France,2023-11-17
+106,56,AstraZeneca,Deuxième dose,Île-de-France,2023-04-25
+107,39,Pfizer,Booster,Provence-Alpes-Côte d'Azur,2023-03-07
+108,42,AstraZeneca,Deuxième dose,Auvergne-Rhône-Alpes,2023-09-03
+109,50,Johnson & Johnson,Booster,Occitanie,2023-01-22
+110,45,Johnson & Johnson,Booster,Nouvelle-Aquitaine,2023-10-22
+111,49,Johnson & Johnson,Deuxième dose,Occitanie,2023-07-26
+112,32,AstraZeneca,Première dose,Occitanie,2023-05-17
+113,39,Johnson & Johnson,Booster,Provence-Alpes-Côte d'Azur,2023-02-03
+114,39,Moderna,Booster,Occitanie,2023-06-26
+115,68,AstraZeneca,Deuxième dose,Auvergne-Rhône-Alpes,2023-03-11
+116,40,Pfizer,Deuxième dose,Occitanie,2023-03-28
+117,66,Pfizer,Booster,Nouvelle-Aquitaine,2023-10-15
+118,70,Moderna,Première dose,Nouvelle-Aquitaine,2023-09-17
+119,76,AstraZeneca,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-10-09
+120,47,Moderna,Première dose,Auvergne-Rhône-Alpes,2023-10-28
+121,68,AstraZeneca,Première dose,Nouvelle-Aquitaine,2023-07-12
+122,52,Pfizer,Booster,Provence-Alpes-Côte d'Azur,2023-11-10
+123,42,Johnson & Johnson,Première dose,Auvergne-Rhône-Alpes,2023-10-26
+124,37,Pfizer,Première dose,Occitanie,2023-02-07
+125,38,Pfizer,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-10-23
+126,75,AstraZeneca,Première dose,Occitanie,2023-10-22
+127,30,Moderna,Booster,Auvergne-Rhône-Alpes,2023-04-05
+128,36,Johnson & Johnson,Deuxième dose,Auvergne-Rhône-Alpes,2023-04-17
+129,48,Moderna,Deuxième dose,Occitanie,2023-04-20
+130,79,Pfizer,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-01-15
+131,30,AstraZeneca,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-07-22
+132,50,Pfizer,Première dose,Nouvelle-Aquitaine,2023-04-17
+133,39,Moderna,Booster,Île-de-France,2023-06-25
+134,62,Johnson & Johnson,Première dose,Auvergne-Rhône-Alpes,2023-10-26
+135,47,Pfizer,Booster,Auvergne-Rhône-Alpes,2023-10-27
+136,18,Pfizer,Deuxième dose,Auvergne-Rhône-Alpes,2023-10-10
+137,74,Johnson & Johnson,Deuxième dose,Nouvelle-Aquitaine,2023-03-29
+138,24,AstraZeneca,Première dose,Occitanie,2023-03-29
+139,50,Moderna,Deuxième dose,Occitanie,2023-05-24
+140,61,Pfizer,Deuxième dose,Occitanie,2023-10-25
+141,63,Pfizer,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-08-16
+142,42,Moderna,Première dose,Auvergne-Rhône-Alpes,2023-05-12
+143,50,AstraZeneca,Deuxième dose,Auvergne-Rhône-Alpes,2023-11-09
+144,56,Moderna,Booster,Occitanie,2023-10-23
+145,57,Johnson & Johnson,Première dose,Nouvelle-Aquitaine,2023-06-25
+146,44,Moderna,Booster,Provence-Alpes-Côte d'Azur,2023-07-15
+147,41,Johnson & Johnson,Booster,Île-de-France,2023-09-16
+148,49,Pfizer,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-08-31
+149,31,Moderna,Deuxième dose,Île-de-France,2023-12-15
+150,53,AstraZeneca,Première dose,Provence-Alpes-Côte d'Azur,2023-11-03
+151,51,Moderna,Première dose,Nouvelle-Aquitaine,2023-01-09
+152,44,Pfizer,Booster,Nouvelle-Aquitaine,2023-03-21
+153,28,Moderna,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-12-19
+154,90,Pfizer,Booster,Île-de-France,2023-03-14
+155,45,Johnson & Johnson,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-12-30
+156,43,Pfizer,Deuxième dose,Occitanie,2023-03-03
+157,76,Pfizer,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-03-11
+158,44,Johnson & Johnson,Première dose,Île-de-France,2023-09-20
+159,62,AstraZeneca,Booster,Occitanie,2023-03-17
+160,36,AstraZeneca,Deuxième dose,Nouvelle-Aquitaine,2023-03-18
+161,40,Moderna,Booster,Provence-Alpes-Côte d'Azur,2023-10-04
+162,37,Pfizer,Booster,Provence-Alpes-Côte d'Azur,2023-07-28
+163,37,AstraZeneca,Booster,Île-de-France,2023-09-12
+164,62,Pfizer,Première dose,Auvergne-Rhône-Alpes,2023-09-09
+165,63,Pfizer,Première dose,Nouvelle-Aquitaine,2023-06-14
+166,65,Moderna,Première dose,Auvergne-Rhône-Alpes,2023-09-05
+167,52,AstraZeneca,Booster,Provence-Alpes-Côte d'Azur,2023-07-16
+168,63,Pfizer,Deuxième dose,Île-de-France,2023-08-21
+169,52,AstraZeneca,Booster,Occitanie,2023-04-06
+170,61,Pfizer,Deuxième dose,Auvergne-Rhône-Alpes,2023-07-02
+171,25,AstraZeneca,Booster,Auvergne-Rhône-Alpes,2023-12-13
+172,38,Johnson & Johnson,Booster,Île-de-France,2023-04-22
+173,57,Johnson & Johnson,Booster,Auvergne-Rhône-Alpes,2023-11-27
+174,34,AstraZeneca,Première dose,Auvergne-Rhône-Alpes,2023-12-18
+175,37,Johnson & Johnson,Deuxième dose,Auvergne-Rhône-Alpes,2023-02-01
+176,66,Pfizer,Deuxième dose,Occitanie,2023-09-29
+177,61,Moderna,Première dose,Auvergne-Rhône-Alpes,2023-05-30
+178,39,Pfizer,Deuxième dose,Nouvelle-Aquitaine,2023-11-29
+179,43,Moderna,Première dose,Occitanie,2023-09-30
+180,60,AstraZeneca,Booster,Île-de-France,2023-08-14
+181,51,Pfizer,Booster,Nouvelle-Aquitaine,2023-02-21
+182,47,Moderna,Première dose,Nouvelle-Aquitaine,2023-10-21
+183,37,Pfizer,Booster,Nouvelle-Aquitaine,2023-09-21
+184,52,Moderna,Booster,Île-de-France,2023-12-28
+185,67,AstraZeneca,Première dose,Nouvelle-Aquitaine,2023-05-21
+186,34,Johnson & Johnson,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-03-04
+187,40,Moderna,Deuxième dose,Occitanie,2023-11-27
+188,48,Moderna,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-02-14
+189,53,Johnson & Johnson,Première dose,Nouvelle-Aquitaine,2023-03-27
+190,88,Moderna,Première dose,Nouvelle-Aquitaine,2023-09-08
+191,40,Johnson & Johnson,Deuxième dose,Auvergne-Rhône-Alpes,2023-09-13
+192,59,Pfizer,Deuxième dose,Occitanie,2023-04-12
+193,55,AstraZeneca,Première dose,Provence-Alpes-Côte d'Azur,2023-07-16
+194,60,Johnson & Johnson,Booster,Île-de-France,2023-07-02
+195,63,AstraZeneca,Booster,Provence-Alpes-Côte d'Azur,2023-12-05
+196,40,Johnson & Johnson,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-01-04
+197,51,AstraZeneca,Première dose,Nouvelle-Aquitaine,2023-04-03
+198,62,Moderna,Deuxième dose,Auvergne-Rhône-Alpes,2023-11-22
+199,63,Moderna,Deuxième dose,Île-de-France,2023-11-19
+200,44,Johnson & Johnson,Booster,Nouvelle-Aquitaine,2023-07-24
+201,47,Pfizer,Deuxième dose,Occitanie,2023-02-05
+202,57,Pfizer,Première dose,Île-de-France,2023-01-08
+203,57,Pfizer,Première dose,Auvergne-Rhône-Alpes,2023-03-01
+204,41,Moderna,Première dose,Provence-Alpes-Côte d'Azur,2023-06-11
+205,86,Pfizer,Booster,Nouvelle-Aquitaine,2023-08-27
+206,64,Johnson & Johnson,Booster,Provence-Alpes-Côte d'Azur,2023-07-29
+207,49,Pfizer,Deuxième dose,Occitanie,2023-08-20
+208,83,Johnson & Johnson,Première dose,Provence-Alpes-Côte d'Azur,2023-03-29
+209,90,Pfizer,Booster,Nouvelle-Aquitaine,2023-01-31
+210,35,Pfizer,Deuxième dose,Auvergne-Rhône-Alpes,2023-02-28
+211,58,AstraZeneca,Booster,Île-de-France,2023-04-25
+212,33,Johnson & Johnson,Deuxième dose,Occitanie,2023-12-23
+213,45,AstraZeneca,Booster,Nouvelle-Aquitaine,2023-11-17
+214,50,Pfizer,Deuxième dose,Nouvelle-Aquitaine,2023-12-24
+215,48,Pfizer,Première dose,Provence-Alpes-Côte d'Azur,2023-02-11
+216,50,Johnson & Johnson,Première dose,Provence-Alpes-Côte d'Azur,2023-07-22
+217,18,Johnson & Johnson,Booster,Provence-Alpes-Côte d'Azur,2023-03-26
+218,63,AstraZeneca,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-07-29
+219,39,Pfizer,Première dose,Auvergne-Rhône-Alpes,2023-11-20
+220,69,Moderna,Deuxième dose,Auvergne-Rhône-Alpes,2023-01-30
+221,34,Pfizer,Deuxième dose,Nouvelle-Aquitaine,2023-01-29
+222,21,Moderna,Première dose,Île-de-France,2023-05-13
+223,38,Pfizer,Première dose,Provence-Alpes-Côte d'Azur,2023-02-18
+224,50,Pfizer,Booster,Occitanie,2023-10-20
+225,70,Johnson & Johnson,Première dose,Auvergne-Rhône-Alpes,2023-11-04
+226,56,Moderna,Booster,Provence-Alpes-Côte d'Azur,2023-07-16
+227,56,AstraZeneca,Booster,Occitanie,2023-05-07
+228,40,AstraZeneca,Première dose,Île-de-France,2023-06-09
+229,51,AstraZeneca,Booster,Provence-Alpes-Côte d'Azur,2023-06-10
+230,64,AstraZeneca,Première dose,Occitanie,2023-03-23
+231,40,Johnson & Johnson,Booster,Nouvelle-Aquitaine,2023-01-02
+232,28,Pfizer,Booster,Occitanie,2023-06-30
+233,55,Pfizer,Deuxième dose,Nouvelle-Aquitaine,2023-11-30
+234,41,Moderna,Deuxième dose,Occitanie,2023-08-03
+235,43,Pfizer,Booster,Île-de-France,2023-11-02
+236,44,Moderna,Première dose,Auvergne-Rhône-Alpes,2023-01-02
+237,35,Johnson & Johnson,Première dose,Auvergne-Rhône-Alpes,2023-02-27
+238,90,Pfizer,Booster,Nouvelle-Aquitaine,2023-12-06
+239,60,Moderna,Première dose,Nouvelle-Aquitaine,2023-10-19
+240,43,Johnson & Johnson,Booster,Occitanie,2023-07-03
+241,71,Moderna,Booster,Nouvelle-Aquitaine,2023-10-09
+242,49,AstraZeneca,Première dose,Nouvelle-Aquitaine,2023-07-05
+243,32,Moderna,Première dose,Provence-Alpes-Côte d'Azur,2023-07-02
+244,45,Moderna,Booster,Auvergne-Rhône-Alpes,2023-05-27
+245,33,Moderna,Booster,Provence-Alpes-Côte d'Azur,2023-09-19
+246,34,Johnson & Johnson,Première dose,Nouvelle-Aquitaine,2023-04-13
+247,65,Moderna,Booster,Auvergne-Rhône-Alpes,2023-07-06
+248,48,Pfizer,Booster,Provence-Alpes-Côte d'Azur,2023-08-25
+249,38,Johnson & Johnson,Booster,Provence-Alpes-Côte d'Azur,2023-02-14
+250,47,AstraZeneca,Booster,Île-de-France,2023-11-11
+251,47,Johnson & Johnson,Booster,Auvergne-Rhône-Alpes,2023-05-28
+252,46,Johnson & Johnson,Booster,Occitanie,2023-03-03
+253,29,Moderna,Booster,Nouvelle-Aquitaine,2023-08-29
+254,47,AstraZeneca,Première dose,Auvergne-Rhône-Alpes,2023-06-01
+255,43,AstraZeneca,Booster,Occitanie,2023-12-01
+256,40,Johnson & Johnson,Booster,Auvergne-Rhône-Alpes,2023-03-08
+257,55,AstraZeneca,Deuxième dose,Auvergne-Rhône-Alpes,2023-07-03
+258,39,Pfizer,Première dose,Occitanie,2023-06-18
+259,85,Pfizer,Booster,Provence-Alpes-Côte d'Azur,2023-05-16
+260,31,Pfizer,Première dose,Occitanie,2023-01-10
+261,23,Pfizer,Booster,Nouvelle-Aquitaine,2023-06-26
+262,33,Moderna,Première dose,Nouvelle-Aquitaine,2023-06-12
+263,23,AstraZeneca,Booster,Île-de-France,2023-01-21
+264,63,AstraZeneca,Booster,Nouvelle-Aquitaine,2023-11-12
+265,76,Moderna,Booster,Provence-Alpes-Côte d'Azur,2023-08-05
+266,18,Pfizer,Deuxième dose,Nouvelle-Aquitaine,2023-06-06
+267,36,Moderna,Deuxième dose,Auvergne-Rhône-Alpes,2023-01-10
+268,36,Moderna,Deuxième dose,Île-de-France,2023-06-09
+269,65,AstraZeneca,Deuxième dose,Nouvelle-Aquitaine,2023-04-22
+270,27,Johnson & Johnson,Première dose,Provence-Alpes-Côte d'Azur,2023-07-24
+271,31,AstraZeneca,Deuxième dose,Auvergne-Rhône-Alpes,2023-08-24
+272,43,Moderna,Booster,Nouvelle-Aquitaine,2023-08-10
+273,31,Pfizer,Deuxième dose,Auvergne-Rhône-Alpes,2023-02-21
+274,52,Pfizer,Première dose,Occitanie,2023-01-31
+275,49,Pfizer,Deuxième dose,Occitanie,2023-02-14
+276,40,Moderna,Booster,Nouvelle-Aquitaine,2023-03-04
+277,38,Moderna,Première dose,Île-de-France,2023-10-22
+278,61,Moderna,Deuxième dose,Île-de-France,2023-10-02
+279,58,AstraZeneca,Booster,Auvergne-Rhône-Alpes,2023-01-02
+280,43,Moderna,Première dose,Occitanie,2023-06-13
+281,53,AstraZeneca,Booster,Île-de-France,2023-06-17
+282,43,Johnson & Johnson,Deuxième dose,Île-de-France,2023-06-25
+283,29,AstraZeneca,Deuxième dose,Nouvelle-Aquitaine,2023-10-01
+284,48,Pfizer,Première dose,Auvergne-Rhône-Alpes,2023-11-10
+285,57,AstraZeneca,Première dose,Provence-Alpes-Côte d'Azur,2023-07-24
+286,37,Johnson & Johnson,Première dose,Île-de-France,2023-10-27
+287,25,Moderna,Première dose,Île-de-France,2023-08-20
+288,71,AstraZeneca,Première dose,Île-de-France,2023-07-06
+289,41,AstraZeneca,Première dose,Nouvelle-Aquitaine,2023-04-15
+290,62,AstraZeneca,Première dose,Occitanie,2023-04-10
+291,57,AstraZeneca,Deuxième dose,Auvergne-Rhône-Alpes,2023-11-23
+292,57,Johnson & Johnson,Première dose,Île-de-France,2023-11-30
+293,35,Johnson & Johnson,Booster,Occitanie,2023-08-02
+294,43,Pfizer,Booster,Île-de-France,2023-07-27
+295,52,Johnson & Johnson,Booster,Provence-Alpes-Côte d'Azur,2023-04-12
+296,72,Johnson & Johnson,Deuxième dose,Nouvelle-Aquitaine,2023-12-27
+297,64,Moderna,Première dose,Nouvelle-Aquitaine,2023-11-15
+298,40,AstraZeneca,Booster,Occitanie,2023-11-15
+299,55,Johnson & Johnson,Deuxième dose,Nouvelle-Aquitaine,2023-11-11
+300,42,Johnson & Johnson,Première dose,Nouvelle-Aquitaine,2023-10-28
+301,51,Johnson & Johnson,Deuxième dose,Occitanie,2023-05-04
+302,30,Pfizer,Première dose,Auvergne-Rhône-Alpes,2023-05-10
+303,52,AstraZeneca,Deuxième dose,Auvergne-Rhône-Alpes,2023-06-11
+304,18,Moderna,Deuxième dose,Auvergne-Rhône-Alpes,2023-10-18
+305,77,AstraZeneca,Première dose,Nouvelle-Aquitaine,2023-01-15
+306,51,AstraZeneca,Booster,Auvergne-Rhône-Alpes,2023-06-04
+307,20,Pfizer,Première dose,Île-de-France,2023-04-06
+308,54,Johnson & Johnson,Deuxième dose,Île-de-France,2023-09-22
+309,44,Johnson & Johnson,Deuxième dose,Occitanie,2023-07-18
+310,72,AstraZeneca,Booster,Île-de-France,2023-06-03
+311,38,AstraZeneca,Première dose,Nouvelle-Aquitaine,2023-04-05
+312,33,Johnson & Johnson,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-06-24
+313,31,Johnson & Johnson,Deuxième dose,Occitanie,2023-06-19
+314,62,Pfizer,Deuxième dose,Île-de-France,2023-02-23
+315,49,AstraZeneca,Première dose,Occitanie,2023-02-23
+316,74,Johnson & Johnson,Deuxième dose,Île-de-France,2023-01-03
+317,48,Pfizer,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-10-01
+318,51,Moderna,Booster,Île-de-France,2023-09-05
+319,47,Johnson & Johnson,Première dose,Île-de-France,2023-05-29
+320,35,Moderna,Deuxième dose,Auvergne-Rhône-Alpes,2023-09-24
+321,18,Moderna,Booster,Nouvelle-Aquitaine,2023-04-06
+322,45,Moderna,Deuxième dose,Nouvelle-Aquitaine,2023-07-17
+323,53,AstraZeneca,Première dose,Nouvelle-Aquitaine,2023-08-05
+324,78,Pfizer,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-05-16
+325,53,AstraZeneca,Première dose,Auvergne-Rhône-Alpes,2023-03-29
+326,38,Pfizer,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-11-03
+327,47,Johnson & Johnson,Deuxième dose,Auvergne-Rhône-Alpes,2023-11-06
+328,55,Moderna,Première dose,Auvergne-Rhône-Alpes,2023-12-21
+329,54,Moderna,Booster,Nouvelle-Aquitaine,2023-06-24
+330,74,AstraZeneca,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-07-15
+331,54,AstraZeneca,Booster,Île-de-France,2023-07-17
+332,41,Moderna,Première dose,Île-de-France,2023-05-19
+333,46,Pfizer,Booster,Île-de-France,2023-08-26
+334,38,AstraZeneca,Première dose,Auvergne-Rhône-Alpes,2023-09-26
+335,37,AstraZeneca,Booster,Provence-Alpes-Côte d'Azur,2023-04-16
+336,39,Pfizer,Première dose,Occitanie,2023-05-07
+337,58,Moderna,Booster,Île-de-France,2023-09-25
+338,58,Moderna,Deuxième dose,Occitanie,2023-07-31
+339,72,Pfizer,Deuxième dose,Nouvelle-Aquitaine,2023-03-25
+340,33,Johnson & Johnson,Booster,Île-de-France,2023-12-23
+341,42,Moderna,Première dose,Nouvelle-Aquitaine,2023-09-25
+342,25,Pfizer,Première dose,Nouvelle-Aquitaine,2023-05-09
+343,53,AstraZeneca,Première dose,Occitanie,2023-11-02
+344,74,Johnson & Johnson,Première dose,Provence-Alpes-Côte d'Azur,2023-10-17
+345,80,Pfizer,Booster,Auvergne-Rhône-Alpes,2023-05-27
+346,66,AstraZeneca,Booster,Nouvelle-Aquitaine,2023-09-24
+347,63,Pfizer,Booster,Île-de-France,2023-12-25
+348,51,Johnson & Johnson,Booster,Île-de-France,2023-06-05
+349,18,AstraZeneca,Booster,Occitanie,2023-03-05
+350,44,AstraZeneca,Première dose,Provence-Alpes-Côte d'Azur,2023-04-10
+351,48,Johnson & Johnson,Deuxième dose,Occitanie,2023-03-01
+352,31,AstraZeneca,Première dose,Auvergne-Rhône-Alpes,2023-04-07
+353,34,Moderna,Deuxième dose,Île-de-France,2023-03-21
+354,52,Johnson & Johnson,Deuxième dose,Nouvelle-Aquitaine,2023-11-28
+355,46,Johnson & Johnson,Booster,Nouvelle-Aquitaine,2023-04-06
+356,37,Johnson & Johnson,Première dose,Île-de-France,2023-06-18
+357,51,AstraZeneca,Deuxième dose,Nouvelle-Aquitaine,2023-03-24
+358,53,Moderna,Première dose,Occitanie,2023-08-21
+359,46,Pfizer,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-06-16
+360,37,Moderna,Première dose,Auvergne-Rhône-Alpes,2023-07-27
+361,57,Pfizer,Booster,Auvergne-Rhône-Alpes,2023-06-13
+362,90,AstraZeneca,Booster,Nouvelle-Aquitaine,2023-02-24
+363,28,Pfizer,Booster,Provence-Alpes-Côte d'Azur,2023-06-20
+364,51,AstraZeneca,Booster,Île-de-France,2023-05-30
+365,48,Johnson & Johnson,Deuxième dose,Île-de-France,2023-11-16
+366,46,AstraZeneca,Booster,Nouvelle-Aquitaine,2023-04-07
+367,38,Pfizer,Booster,Occitanie,2023-07-30
+368,61,Johnson & Johnson,Première dose,Île-de-France,2023-03-21
+369,45,AstraZeneca,Booster,Nouvelle-Aquitaine,2023-08-23
+370,47,Pfizer,Première dose,Auvergne-Rhône-Alpes,2023-03-17
+371,42,Johnson & Johnson,Booster,Provence-Alpes-Côte d'Azur,2023-01-09
+372,47,Pfizer,Booster,Auvergne-Rhône-Alpes,2023-10-02
+373,40,AstraZeneca,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-04-23
+374,61,Johnson & Johnson,Booster,Occitanie,2023-06-17
+375,18,Moderna,Deuxième dose,Auvergne-Rhône-Alpes,2023-11-17
+376,51,AstraZeneca,Booster,Nouvelle-Aquitaine,2023-12-14
+377,60,Pfizer,Première dose,Nouvelle-Aquitaine,2023-01-11
+378,62,Moderna,Deuxième dose,Nouvelle-Aquitaine,2023-11-03
+379,74,Pfizer,Première dose,Occitanie,2023-01-01
+380,56,AstraZeneca,Deuxième dose,Île-de-France,2023-05-21
+381,38,Moderna,Booster,Nouvelle-Aquitaine,2023-04-14
+382,38,Pfizer,Première dose,Provence-Alpes-Côte d'Azur,2023-11-01
+383,47,AstraZeneca,Deuxième dose,Île-de-France,2023-06-25
+384,55,Johnson & Johnson,Booster,Occitanie,2023-05-10
+385,65,Johnson & Johnson,Booster,Occitanie,2023-04-18
+386,33,AstraZeneca,Première dose,Occitanie,2023-07-15
+387,40,Moderna,Deuxième dose,Île-de-France,2023-10-07
+388,68,Moderna,Deuxième dose,Nouvelle-Aquitaine,2023-01-12
+389,53,Moderna,Deuxième dose,Nouvelle-Aquitaine,2023-09-08
+390,64,Moderna,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-10-11
+391,62,AstraZeneca,Deuxième dose,Île-de-France,2023-02-03
+392,66,Johnson & Johnson,Booster,Île-de-France,2023-05-12
+393,61,AstraZeneca,Première dose,Provence-Alpes-Côte d'Azur,2023-10-02
+394,68,Moderna,Deuxième dose,Île-de-France,2023-03-26
+395,37,AstraZeneca,Booster,Auvergne-Rhône-Alpes,2023-07-29
+396,75,Pfizer,Deuxième dose,Nouvelle-Aquitaine,2023-06-16
+397,29,AstraZeneca,Deuxième dose,Nouvelle-Aquitaine,2023-01-10
+398,32,Johnson & Johnson,Deuxième dose,Auvergne-Rhône-Alpes,2023-01-12
+399,25,Pfizer,Booster,Île-de-France,2023-01-12
+400,65,Pfizer,Deuxième dose,Occitanie,2023-11-21
+401,54,Pfizer,Booster,Île-de-France,2023-03-22
+402,63,Johnson & Johnson,Première dose,Occitanie,2023-10-31
+403,42,Pfizer,Première dose,Île-de-France,2023-11-16
+404,71,Moderna,Première dose,Occitanie,2023-02-19
+405,48,Pfizer,Première dose,Île-de-France,2023-04-24
+406,41,Pfizer,Booster,Nouvelle-Aquitaine,2023-12-13
+407,70,Johnson & Johnson,Deuxième dose,Auvergne-Rhône-Alpes,2023-08-05
+408,79,Pfizer,Booster,Île-de-France,2023-02-23
+409,18,AstraZeneca,Booster,Auvergne-Rhône-Alpes,2023-08-27
+410,22,Johnson & Johnson,Booster,Île-de-France,2023-08-29
+411,38,Moderna,Première dose,Occitanie,2023-07-06
+412,48,Moderna,Booster,Île-de-France,2023-03-23
+413,50,Moderna,Première dose,Provence-Alpes-Côte d'Azur,2023-03-28
+414,59,Johnson & Johnson,Première dose,Provence-Alpes-Côte d'Azur,2023-12-25
+415,59,Johnson & Johnson,Première dose,Provence-Alpes-Côte d'Azur,2023-11-09
+416,51,Pfizer,Première dose,Île-de-France,2023-06-01
+417,19,Moderna,Première dose,Provence-Alpes-Côte d'Azur,2023-04-16
+418,32,Pfizer,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-04-07
+419,67,Moderna,Booster,Occitanie,2023-02-03
+420,41,Johnson & Johnson,Première dose,Nouvelle-Aquitaine,2023-12-04
+421,51,Johnson & Johnson,Première dose,Provence-Alpes-Côte d'Azur,2023-09-03
+422,41,Moderna,Deuxième dose,Nouvelle-Aquitaine,2023-12-23
+423,28,Johnson & Johnson,Deuxième dose,Nouvelle-Aquitaine,2023-06-17
+424,67,Johnson & Johnson,Première dose,Occitanie,2023-03-07
+425,65,AstraZeneca,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-10-05
+426,52,Johnson & Johnson,Deuxième dose,Occitanie,2023-07-28
+427,51,Johnson & Johnson,Première dose,Occitanie,2023-02-09
+428,61,Pfizer,Booster,Provence-Alpes-Côte d'Azur,2023-01-10
+429,51,AstraZeneca,Première dose,Auvergne-Rhône-Alpes,2023-02-19
+430,31,AstraZeneca,Deuxième dose,Nouvelle-Aquitaine,2023-10-18
+431,18,Moderna,Première dose,Provence-Alpes-Côte d'Azur,2023-10-10
+432,43,AstraZeneca,Deuxième dose,Nouvelle-Aquitaine,2023-02-13
+433,44,Johnson & Johnson,Deuxième dose,Occitanie,2023-11-25
+434,40,Johnson & Johnson,Première dose,Occitanie,2023-07-17
+435,39,Moderna,Booster,Auvergne-Rhône-Alpes,2023-01-17
+436,90,Moderna,Première dose,Auvergne-Rhône-Alpes,2023-12-24
+437,33,Pfizer,Deuxième dose,Nouvelle-Aquitaine,2023-05-28
+438,65,Moderna,Première dose,Nouvelle-Aquitaine,2023-11-19
+439,51,Pfizer,Première dose,Occitanie,2023-01-29
+440,34,Johnson & Johnson,Booster,Auvergne-Rhône-Alpes,2023-10-15
+441,59,Johnson & Johnson,Booster,Île-de-France,2023-11-05
+442,53,Pfizer,Première dose,Nouvelle-Aquitaine,2023-04-19
+443,59,Johnson & Johnson,Première dose,Nouvelle-Aquitaine,2023-05-17
+444,45,AstraZeneca,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-10-09
+445,34,Johnson & Johnson,Deuxième dose,Nouvelle-Aquitaine,2023-09-28
+446,51,Johnson & Johnson,Booster,Auvergne-Rhône-Alpes,2023-01-03
+447,73,AstraZeneca,Première dose,Auvergne-Rhône-Alpes,2023-01-11
+448,43,AstraZeneca,Booster,Provence-Alpes-Côte d'Azur,2023-01-16
+449,68,Moderna,Première dose,Occitanie,2023-01-16
+450,56,Pfizer,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-10-15
+451,42,Moderna,Deuxième dose,Nouvelle-Aquitaine,2023-08-10
+452,38,AstraZeneca,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-07-16
+453,33,Moderna,Deuxième dose,Île-de-France,2023-10-04
+454,55,Pfizer,Première dose,Occitanie,2023-11-24
+455,48,Pfizer,Deuxième dose,Auvergne-Rhône-Alpes,2023-11-15
+456,37,AstraZeneca,Première dose,Nouvelle-Aquitaine,2023-02-21
+457,75,Pfizer,Première dose,Provence-Alpes-Côte d'Azur,2023-12-30
+458,34,AstraZeneca,Première dose,Île-de-France,2023-08-14
+459,40,Johnson & Johnson,Première dose,Auvergne-Rhône-Alpes,2023-01-22
+460,35,Pfizer,Booster,Nouvelle-Aquitaine,2023-01-02
+461,73,AstraZeneca,Première dose,Nouvelle-Aquitaine,2023-04-01
+462,58,Moderna,Deuxième dose,Occitanie,2023-04-23
+463,51,Moderna,Booster,Auvergne-Rhône-Alpes,2023-10-01
+464,21,Pfizer,Première dose,Auvergne-Rhône-Alpes,2023-12-25
+465,58,Moderna,Booster,Auvergne-Rhône-Alpes,2023-11-28
+466,44,Moderna,Première dose,Provence-Alpes-Côte d'Azur,2023-01-20
+467,71,Johnson & Johnson,Booster,Nouvelle-Aquitaine,2023-09-11
+468,62,Moderna,Deuxième dose,Occitanie,2023-07-23
+469,36,Moderna,Première dose,Île-de-France,2023-01-02
+470,69,Johnson & Johnson,Booster,Provence-Alpes-Côte d'Azur,2023-02-10
+471,60,Johnson & Johnson,Première dose,Auvergne-Rhône-Alpes,2023-09-15
+472,65,Johnson & Johnson,Booster,Auvergne-Rhône-Alpes,2023-01-30
+473,53,Pfizer,Première dose,Auvergne-Rhône-Alpes,2023-05-16
+474,46,Moderna,Deuxième dose,Nouvelle-Aquitaine,2023-07-27
+475,49,Pfizer,Booster,Nouvelle-Aquitaine,2023-10-09
+476,40,Johnson & Johnson,Booster,Provence-Alpes-Côte d'Azur,2023-08-31
+477,63,AstraZeneca,Booster,Auvergne-Rhône-Alpes,2023-11-11
+478,55,Moderna,Première dose,Île-de-France,2023-08-08
+479,59,Pfizer,Deuxième dose,Nouvelle-Aquitaine,2023-04-25
+480,44,AstraZeneca,Deuxième dose,Occitanie,2023-06-27
+481,78,Pfizer,Première dose,Auvergne-Rhône-Alpes,2023-06-09
+482,32,Johnson & Johnson,Booster,Île-de-France,2023-11-19
+483,79,AstraZeneca,Booster,Île-de-France,2023-08-23
+484,80,AstraZeneca,Deuxième dose,Île-de-France,2023-10-17
+485,30,Johnson & Johnson,Première dose,Occitanie,2023-06-30
+486,53,Johnson & Johnson,Deuxième dose,Île-de-France,2023-07-17
+487,81,Moderna,Booster,Provence-Alpes-Côte d'Azur,2023-06-24
+488,42,Johnson & Johnson,Première dose,Auvergne-Rhône-Alpes,2023-05-16
+489,45,Johnson & Johnson,Première dose,Occitanie,2023-09-20
+490,50,Johnson & Johnson,Deuxième dose,Occitanie,2023-01-25
+491,22,Pfizer,Deuxième dose,Nouvelle-Aquitaine,2023-11-30
+492,77,Pfizer,Deuxième dose,Nouvelle-Aquitaine,2023-08-12
+493,34,Johnson & Johnson,Première dose,Nouvelle-Aquitaine,2023-11-27
+494,18,Pfizer,Booster,Auvergne-Rhône-Alpes,2023-08-31
+495,50,Moderna,Première dose,Île-de-France,2023-12-07
+496,63,Moderna,Deuxième dose,Occitanie,2023-09-26
+497,46,Pfizer,Booster,Provence-Alpes-Côte d'Azur,2023-11-11
+498,48,Pfizer,Deuxième dose,Auvergne-Rhône-Alpes,2023-06-11
+499,56,Moderna,Deuxième dose,Nouvelle-Aquitaine,2023-02-23
+500,54,AstraZeneca,Première dose,Occitanie,2023-06-30
+501,41,Johnson & Johnson,Deuxième dose,Nouvelle-Aquitaine,2023-11-05
+502,56,Johnson & Johnson,Deuxième dose,Occitanie,2023-01-14
+503,41,Moderna,Booster,Île-de-France,2023-08-16
+504,63,Johnson & Johnson,Première dose,Provence-Alpes-Côte d'Azur,2023-10-06
+505,41,Johnson & Johnson,Booster,Île-de-France,2023-07-25
+506,54,Moderna,Booster,Île-de-France,2023-06-27
+507,46,AstraZeneca,Deuxième dose,Occitanie,2023-11-08
+508,47,AstraZeneca,Première dose,Nouvelle-Aquitaine,2023-05-23
+509,46,Pfizer,Deuxième dose,Île-de-France,2023-05-11
+510,32,Moderna,Première dose,Occitanie,2023-02-01
+511,58,AstraZeneca,Deuxième dose,Nouvelle-Aquitaine,2023-11-25
+512,41,AstraZeneca,Première dose,Occitanie,2023-10-08
+513,28,Johnson & Johnson,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-05-25
+514,41,AstraZeneca,Première dose,Occitanie,2023-03-08
+515,46,AstraZeneca,Booster,Occitanie,2023-06-23
+516,56,Pfizer,Deuxième dose,Occitanie,2023-11-15
+517,50,Moderna,Booster,Île-de-France,2023-11-18
+518,35,Pfizer,Booster,Auvergne-Rhône-Alpes,2023-10-05
+519,34,Pfizer,Première dose,Île-de-France,2023-09-08
+520,77,Moderna,Première dose,Provence-Alpes-Côte d'Azur,2023-07-16
+521,60,Moderna,Première dose,Provence-Alpes-Côte d'Azur,2023-05-10
+522,58,Moderna,Booster,Auvergne-Rhône-Alpes,2023-11-01
+523,49,Pfizer,Booster,Nouvelle-Aquitaine,2023-12-30
+524,42,Johnson & Johnson,Première dose,Auvergne-Rhône-Alpes,2023-09-09
+525,70,AstraZeneca,Booster,Nouvelle-Aquitaine,2023-07-26
+526,50,AstraZeneca,Deuxième dose,Île-de-France,2023-03-15
+527,65,AstraZeneca,Booster,Occitanie,2023-06-09
+528,56,Pfizer,Première dose,Île-de-France,2023-05-28
+529,68,Johnson & Johnson,Première dose,Provence-Alpes-Côte d'Azur,2023-02-22
+530,40,AstraZeneca,Booster,Auvergne-Rhône-Alpes,2023-02-27
+531,50,Moderna,Booster,Provence-Alpes-Côte d'Azur,2023-10-08
+532,70,Pfizer,Deuxième dose,Nouvelle-Aquitaine,2023-04-09
+533,24,Pfizer,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-01-15
+534,32,AstraZeneca,Deuxième dose,Occitanie,2023-12-18
+535,52,Johnson & Johnson,Booster,Auvergne-Rhône-Alpes,2023-07-20
+536,58,Johnson & Johnson,Booster,Nouvelle-Aquitaine,2023-02-22
+537,48,Johnson & Johnson,Première dose,Occitanie,2023-09-17
+538,27,Moderna,Deuxième dose,Auvergne-Rhône-Alpes,2023-11-17
+539,67,Moderna,Booster,Nouvelle-Aquitaine,2023-12-01
+540,32,Johnson & Johnson,Deuxième dose,Occitanie,2023-08-06
+541,56,Johnson & Johnson,Booster,Occitanie,2023-04-12
+542,43,AstraZeneca,Booster,Provence-Alpes-Côte d'Azur,2023-10-22
+543,54,AstraZeneca,Booster,Île-de-France,2023-02-14
+544,47,AstraZeneca,Première dose,Nouvelle-Aquitaine,2023-12-12
+545,51,Johnson & Johnson,Première dose,Provence-Alpes-Côte d'Azur,2023-11-30
+546,48,Johnson & Johnson,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-10-22
+547,55,Moderna,Booster,Provence-Alpes-Côte d'Azur,2023-08-28
+548,35,Moderna,Booster,Nouvelle-Aquitaine,2023-02-09
+549,41,Moderna,Booster,Provence-Alpes-Côte d'Azur,2023-05-31
+550,72,Moderna,Booster,Auvergne-Rhône-Alpes,2023-11-03
+551,41,Moderna,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-12-27
+552,28,Johnson & Johnson,Deuxième dose,Nouvelle-Aquitaine,2023-06-27
+553,90,AstraZeneca,Booster,Occitanie,2023-08-09
+554,81,Johnson & Johnson,Première dose,Auvergne-Rhône-Alpes,2023-05-25
+555,51,Moderna,Deuxième dose,Île-de-France,2023-08-04
+556,43,Johnson & Johnson,Deuxième dose,Île-de-France,2023-02-22
+557,42,Pfizer,Première dose,Nouvelle-Aquitaine,2023-01-05
+558,44,Moderna,Booster,Provence-Alpes-Côte d'Azur,2023-04-11
+559,33,Pfizer,Première dose,Île-de-France,2023-02-22
+560,53,AstraZeneca,Deuxième dose,Nouvelle-Aquitaine,2023-07-08
+561,45,Moderna,Première dose,Provence-Alpes-Côte d'Azur,2023-11-09
+562,52,AstraZeneca,Deuxième dose,Occitanie,2023-01-17
+563,53,AstraZeneca,Deuxième dose,Auvergne-Rhône-Alpes,2023-08-01
+564,41,AstraZeneca,Première dose,Nouvelle-Aquitaine,2023-03-25
+565,53,Moderna,Première dose,Nouvelle-Aquitaine,2023-06-28
+566,54,AstraZeneca,Booster,Occitanie,2023-06-10
+567,42,AstraZeneca,Booster,Occitanie,2023-01-16
+568,18,Pfizer,Première dose,Occitanie,2023-12-27
+569,50,AstraZeneca,Deuxième dose,Occitanie,2023-01-03
+570,33,Moderna,Première dose,Provence-Alpes-Côte d'Azur,2023-05-11
+571,46,AstraZeneca,Booster,Île-de-France,2023-11-05
+572,52,Moderna,Deuxième dose,Auvergne-Rhône-Alpes,2023-05-25
+573,49,Johnson & Johnson,Booster,Auvergne-Rhône-Alpes,2023-07-30
+574,44,Moderna,Première dose,Auvergne-Rhône-Alpes,2023-07-21
+575,54,AstraZeneca,Première dose,Nouvelle-Aquitaine,2023-09-04
+576,64,Johnson & Johnson,Booster,Île-de-France,2023-08-30
+577,50,Pfizer,Booster,Nouvelle-Aquitaine,2023-09-17
+578,88,AstraZeneca,Deuxième dose,Auvergne-Rhône-Alpes,2023-01-26
+579,46,Moderna,Booster,Provence-Alpes-Côte d'Azur,2023-10-31
+580,54,Johnson & Johnson,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-09-22
+581,52,AstraZeneca,Deuxième dose,Occitanie,2023-09-01
+582,40,Moderna,Booster,Provence-Alpes-Côte d'Azur,2023-07-21
+583,28,Johnson & Johnson,Deuxième dose,Occitanie,2023-12-01
+584,75,AstraZeneca,Première dose,Nouvelle-Aquitaine,2023-07-06
+585,36,Moderna,Deuxième dose,Nouvelle-Aquitaine,2023-05-01
+586,51,Pfizer,Deuxième dose,Auvergne-Rhône-Alpes,2023-07-17
+587,40,AstraZeneca,Deuxième dose,Île-de-France,2023-01-16
+588,77,Moderna,Booster,Provence-Alpes-Côte d'Azur,2023-06-15
+589,52,AstraZeneca,Booster,Île-de-France,2023-04-13
+590,65,AstraZeneca,Booster,Nouvelle-Aquitaine,2023-03-16
+591,70,Johnson & Johnson,Booster,Auvergne-Rhône-Alpes,2023-01-11
+592,67,Moderna,Première dose,Occitanie,2023-02-26
+593,74,Moderna,Première dose,Provence-Alpes-Côte d'Azur,2023-07-10
+594,68,Johnson & Johnson,Deuxième dose,Nouvelle-Aquitaine,2023-05-25
+595,18,Johnson & Johnson,Première dose,Île-de-France,2023-01-18
+596,68,AstraZeneca,Booster,Occitanie,2023-11-04
+597,62,Moderna,Première dose,Occitanie,2023-09-05
+598,67,AstraZeneca,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-10-26
+599,51,Johnson & Johnson,Booster,Auvergne-Rhône-Alpes,2023-07-04
+600,46,Johnson & Johnson,Première dose,Occitanie,2023-10-19
+601,50,Moderna,Première dose,Provence-Alpes-Côte d'Azur,2023-10-19
+602,65,Moderna,Booster,Occitanie,2023-07-25
+603,39,Johnson & Johnson,Première dose,Occitanie,2023-03-10
+604,55,Pfizer,Deuxième dose,Nouvelle-Aquitaine,2023-09-01
+605,41,Pfizer,Première dose,Provence-Alpes-Côte d'Azur,2023-09-17
+606,41,Johnson & Johnson,Deuxième dose,Île-de-France,2023-05-05
+607,46,AstraZeneca,Première dose,Auvergne-Rhône-Alpes,2023-02-14
+608,59,AstraZeneca,Booster,Île-de-France,2023-07-16
+609,34,Johnson & Johnson,Deuxième dose,Auvergne-Rhône-Alpes,2023-08-14
+610,74,AstraZeneca,Première dose,Île-de-France,2023-01-04
+611,47,Pfizer,Booster,Occitanie,2023-04-27
+612,61,Moderna,Première dose,Nouvelle-Aquitaine,2023-03-20
+613,71,AstraZeneca,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-03-12
+614,60,Pfizer,Première dose,Auvergne-Rhône-Alpes,2023-05-29
+615,56,Johnson & Johnson,Deuxième dose,Auvergne-Rhône-Alpes,2023-01-13
+616,47,AstraZeneca,Booster,Auvergne-Rhône-Alpes,2023-05-01
+617,34,Moderna,Deuxième dose,Île-de-France,2023-04-12
+618,66,Pfizer,Première dose,Occitanie,2023-01-12
+619,71,Johnson & Johnson,Deuxième dose,Nouvelle-Aquitaine,2023-06-05
+620,62,Pfizer,Première dose,Nouvelle-Aquitaine,2023-09-04
+621,49,Johnson & Johnson,Booster,Occitanie,2023-01-04
+622,63,Pfizer,Deuxième dose,Nouvelle-Aquitaine,2023-04-19
+623,46,Johnson & Johnson,Première dose,Île-de-France,2023-06-09
+624,34,Pfizer,Première dose,Nouvelle-Aquitaine,2023-02-04
+625,47,Johnson & Johnson,Booster,Nouvelle-Aquitaine,2023-07-14
+626,38,Johnson & Johnson,Première dose,Île-de-France,2023-07-08
+627,53,Johnson & Johnson,Booster,Île-de-France,2023-09-24
+628,52,Johnson & Johnson,Booster,Occitanie,2023-01-13
+629,49,AstraZeneca,Première dose,Occitanie,2023-04-04
+630,48,Pfizer,Première dose,Auvergne-Rhône-Alpes,2023-02-16
+631,61,Moderna,Booster,Provence-Alpes-Côte d'Azur,2023-03-28
+632,31,AstraZeneca,Première dose,Nouvelle-Aquitaine,2023-12-29
+633,54,Moderna,Première dose,Provence-Alpes-Côte d'Azur,2023-01-02
+634,56,Pfizer,Première dose,Occitanie,2023-03-30
+635,46,Moderna,Première dose,Auvergne-Rhône-Alpes,2023-02-20
+636,37,Moderna,Booster,Auvergne-Rhône-Alpes,2023-02-15
+637,53,Moderna,Deuxième dose,Occitanie,2023-03-26
+638,61,Pfizer,Première dose,Nouvelle-Aquitaine,2023-12-31
+639,57,Moderna,Première dose,Provence-Alpes-Côte d'Azur,2023-07-04
+640,32,AstraZeneca,Deuxième dose,Nouvelle-Aquitaine,2023-09-11
+641,42,Moderna,Booster,Provence-Alpes-Côte d'Azur,2023-03-27
+642,56,Moderna,Booster,Nouvelle-Aquitaine,2023-01-21
+643,57,Johnson & Johnson,Booster,Occitanie,2023-04-01
+644,68,Johnson & Johnson,Deuxième dose,Île-de-France,2023-03-12
+645,78,Moderna,Première dose,Île-de-France,2023-03-27
+646,49,AstraZeneca,Deuxième dose,Nouvelle-Aquitaine,2023-11-01
+647,31,Pfizer,Booster,Occitanie,2023-10-14
+648,44,Pfizer,Booster,Auvergne-Rhône-Alpes,2023-07-26
+649,22,Johnson & Johnson,Deuxième dose,Nouvelle-Aquitaine,2023-06-01
+650,61,AstraZeneca,Première dose,Provence-Alpes-Côte d'Azur,2023-01-31
+651,60,AstraZeneca,Booster,Occitanie,2023-07-13
+652,79,Moderna,Booster,Île-de-France,2023-04-29
+653,54,AstraZeneca,Booster,Occitanie,2023-09-25
+654,67,Moderna,Deuxième dose,Auvergne-Rhône-Alpes,2023-09-10
+655,39,Pfizer,Première dose,Provence-Alpes-Côte d'Azur,2023-12-27
+656,19,Johnson & Johnson,Première dose,Auvergne-Rhône-Alpes,2023-03-07
+657,72,Pfizer,Première dose,Auvergne-Rhône-Alpes,2023-02-14
+658,53,Moderna,Deuxième dose,Nouvelle-Aquitaine,2023-04-08
+659,49,AstraZeneca,Deuxième dose,Occitanie,2023-01-05
+660,63,Moderna,Première dose,Nouvelle-Aquitaine,2023-01-10
+661,52,Pfizer,Booster,Occitanie,2023-08-27
+662,60,Pfizer,Booster,Provence-Alpes-Côte d'Azur,2023-02-13
+663,33,Pfizer,Booster,Auvergne-Rhône-Alpes,2023-02-15
+664,57,Pfizer,Deuxième dose,Île-de-France,2023-05-30
+665,57,Pfizer,Deuxième dose,Île-de-France,2023-03-23
+666,55,Pfizer,Première dose,Nouvelle-Aquitaine,2023-02-09
+667,52,AstraZeneca,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-06-13
+668,57,Pfizer,Booster,Occitanie,2023-01-11
+669,37,Pfizer,Deuxième dose,Île-de-France,2023-03-07
+670,39,Moderna,Première dose,Auvergne-Rhône-Alpes,2023-03-26
+671,44,Pfizer,Booster,Provence-Alpes-Côte d'Azur,2023-07-07
+672,49,Pfizer,Première dose,Auvergne-Rhône-Alpes,2023-06-27
+673,76,Pfizer,Booster,Provence-Alpes-Côte d'Azur,2023-06-14
+674,48,Pfizer,Première dose,Auvergne-Rhône-Alpes,2023-10-18
+675,58,Johnson & Johnson,Booster,Île-de-France,2023-06-07
+676,30,Johnson & Johnson,Deuxième dose,Occitanie,2023-03-05
+677,66,Johnson & Johnson,Deuxième dose,Occitanie,2023-11-18
+678,46,Johnson & Johnson,Booster,Île-de-France,2023-02-07
+679,64,AstraZeneca,Première dose,Occitanie,2023-10-02
+680,36,Pfizer,Première dose,Nouvelle-Aquitaine,2023-01-07
+681,60,Pfizer,Première dose,Auvergne-Rhône-Alpes,2023-02-20
+682,48,Johnson & Johnson,Deuxième dose,Occitanie,2023-05-07
+683,66,Johnson & Johnson,Deuxième dose,Occitanie,2023-03-22
+684,21,Pfizer,Première dose,Nouvelle-Aquitaine,2023-10-03
+685,54,AstraZeneca,Deuxième dose,Occitanie,2023-02-22
+686,57,Moderna,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-03-10
+687,42,Moderna,Booster,Nouvelle-Aquitaine,2023-01-10
+688,20,Moderna,Deuxième dose,Île-de-France,2023-10-08
+689,45,Johnson & Johnson,Booster,Nouvelle-Aquitaine,2023-12-26
+690,55,Johnson & Johnson,Booster,Provence-Alpes-Côte d'Azur,2023-02-18
+691,42,AstraZeneca,Booster,Auvergne-Rhône-Alpes,2023-12-09
+692,50,AstraZeneca,Première dose,Nouvelle-Aquitaine,2023-02-10
+693,49,Johnson & Johnson,Booster,Île-de-France,2023-06-20
+694,53,Pfizer,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-07-04
+695,70,Moderna,Booster,Nouvelle-Aquitaine,2023-05-04
+696,29,Moderna,Deuxième dose,Occitanie,2023-06-23
+697,82,AstraZeneca,Première dose,Provence-Alpes-Côte d'Azur,2023-02-26
+698,47,Moderna,Deuxième dose,Nouvelle-Aquitaine,2023-02-25
+699,59,AstraZeneca,Booster,Occitanie,2023-04-12
+700,63,AstraZeneca,Booster,Nouvelle-Aquitaine,2023-12-17
+701,55,Moderna,Deuxième dose,Auvergne-Rhône-Alpes,2023-06-26
+702,65,Johnson & Johnson,Première dose,Île-de-France,2023-07-28
+703,78,Johnson & Johnson,Deuxième dose,Île-de-France,2023-01-24
+704,65,Moderna,Deuxième dose,Nouvelle-Aquitaine,2023-02-23
+705,33,Moderna,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-02-28
+706,34,Johnson & Johnson,Deuxième dose,Auvergne-Rhône-Alpes,2023-09-14
+707,47,Pfizer,Première dose,Provence-Alpes-Côte d'Azur,2023-12-25
+708,62,Moderna,Deuxième dose,Occitanie,2023-12-12
+709,50,AstraZeneca,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-01-18
+710,18,Moderna,Booster,Provence-Alpes-Côte d'Azur,2023-11-21
+711,43,Pfizer,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-01-14
+712,51,Pfizer,Booster,Nouvelle-Aquitaine,2023-06-14
+713,55,Pfizer,Deuxième dose,Île-de-France,2023-11-26
+714,74,AstraZeneca,Booster,Nouvelle-Aquitaine,2023-05-13
+715,56,AstraZeneca,Deuxième dose,Occitanie,2023-05-16
+716,70,Johnson & Johnson,Booster,Île-de-France,2023-08-31
+717,38,Johnson & Johnson,Booster,Provence-Alpes-Côte d'Azur,2023-09-28
+718,66,AstraZeneca,Première dose,Auvergne-Rhône-Alpes,2023-03-02
+719,60,AstraZeneca,Première dose,Île-de-France,2023-09-30
+720,71,AstraZeneca,Deuxième dose,Auvergne-Rhône-Alpes,2023-10-09
+721,41,AstraZeneca,Deuxième dose,Île-de-France,2023-09-29
+722,42,Pfizer,Booster,Nouvelle-Aquitaine,2023-12-19
+723,42,AstraZeneca,Booster,Auvergne-Rhône-Alpes,2023-03-27
+724,50,Pfizer,Première dose,Nouvelle-Aquitaine,2023-07-08
+725,72,Pfizer,Booster,Occitanie,2023-11-17
+726,34,Johnson & Johnson,Deuxième dose,Occitanie,2023-11-26
+727,70,Pfizer,Deuxième dose,Île-de-France,2023-10-10
+728,18,Moderna,Première dose,Nouvelle-Aquitaine,2023-11-11
+729,32,AstraZeneca,Booster,Occitanie,2023-03-08
+730,77,Johnson & Johnson,Booster,Provence-Alpes-Côte d'Azur,2023-02-01
+731,61,Moderna,Booster,Provence-Alpes-Côte d'Azur,2023-12-08
+732,59,Moderna,Première dose,Provence-Alpes-Côte d'Azur,2023-09-20
+733,54,Moderna,Booster,Occitanie,2023-03-06
+734,50,Pfizer,Première dose,Provence-Alpes-Côte d'Azur,2023-10-29
+735,50,Johnson & Johnson,Deuxième dose,Auvergne-Rhône-Alpes,2023-12-12
+736,51,Pfizer,Deuxième dose,Nouvelle-Aquitaine,2023-08-21
+737,19,Moderna,Deuxième dose,Occitanie,2023-09-29
+738,40,Moderna,Deuxième dose,Île-de-France,2023-02-07
+739,45,Johnson & Johnson,Booster,Auvergne-Rhône-Alpes,2023-11-15
+740,51,Pfizer,Booster,Nouvelle-Aquitaine,2023-04-26
+741,27,AstraZeneca,Deuxième dose,Auvergne-Rhône-Alpes,2023-12-07
+742,57,AstraZeneca,Booster,Occitanie,2023-01-03
+743,44,AstraZeneca,Booster,Nouvelle-Aquitaine,2023-08-16
+744,61,Moderna,Booster,Île-de-France,2023-05-20
+745,47,Moderna,Deuxième dose,Occitanie,2023-06-27
+746,45,AstraZeneca,Booster,Provence-Alpes-Côte d'Azur,2023-07-20
+747,46,Moderna,Deuxième dose,Nouvelle-Aquitaine,2023-01-10
+748,57,Pfizer,Première dose,Auvergne-Rhône-Alpes,2023-10-18
+749,37,Johnson & Johnson,Booster,Auvergne-Rhône-Alpes,2023-03-02
+750,74,Pfizer,Première dose,Occitanie,2023-09-09
+751,57,AstraZeneca,Booster,Provence-Alpes-Côte d'Azur,2023-05-04
+752,19,Moderna,Deuxième dose,Occitanie,2023-05-19
+753,46,Pfizer,Deuxième dose,Occitanie,2023-12-25
+754,33,AstraZeneca,Première dose,Nouvelle-Aquitaine,2023-04-07
+755,60,AstraZeneca,Première dose,Occitanie,2023-02-13
+756,27,AstraZeneca,Première dose,Nouvelle-Aquitaine,2023-05-06
+757,73,Johnson & Johnson,Booster,Occitanie,2023-07-11
+758,50,Moderna,Première dose,Auvergne-Rhône-Alpes,2023-01-16
+759,59,AstraZeneca,Deuxième dose,Nouvelle-Aquitaine,2023-10-21
+760,43,AstraZeneca,Deuxième dose,Nouvelle-Aquitaine,2023-09-28
+761,45,AstraZeneca,Première dose,Nouvelle-Aquitaine,2023-04-08
+762,43,Pfizer,Booster,Auvergne-Rhône-Alpes,2023-11-22
+763,44,Johnson & Johnson,Deuxième dose,Occitanie,2023-04-29
+764,43,AstraZeneca,Deuxième dose,Auvergne-Rhône-Alpes,2023-02-25
+765,28,Johnson & Johnson,Deuxième dose,Île-de-France,2023-01-01
+766,33,Pfizer,Première dose,Auvergne-Rhône-Alpes,2023-08-14
+767,53,Pfizer,Deuxième dose,Nouvelle-Aquitaine,2023-03-28
+768,42,Moderna,Première dose,Nouvelle-Aquitaine,2023-10-03
+769,41,Moderna,Booster,Nouvelle-Aquitaine,2023-10-31
+770,75,Johnson & Johnson,Deuxième dose,Occitanie,2023-01-26
+771,56,Johnson & Johnson,Première dose,Provence-Alpes-Côte d'Azur,2023-01-14
+772,33,Johnson & Johnson,Première dose,Provence-Alpes-Côte d'Azur,2023-04-12
+773,63,Johnson & Johnson,Première dose,Provence-Alpes-Côte d'Azur,2023-07-15
+774,25,Johnson & Johnson,Première dose,Île-de-France,2023-01-20
+775,28,Moderna,Deuxième dose,Occitanie,2023-08-29
+776,28,AstraZeneca,Booster,Nouvelle-Aquitaine,2023-04-07
+777,43,AstraZeneca,Première dose,Auvergne-Rhône-Alpes,2023-10-14
+778,55,Pfizer,Booster,Auvergne-Rhône-Alpes,2023-06-04
+779,83,Johnson & Johnson,Booster,Île-de-France,2023-12-31
+780,43,AstraZeneca,Deuxième dose,Auvergne-Rhône-Alpes,2023-11-05
+781,43,Johnson & Johnson,Première dose,Occitanie,2023-07-25
+782,40,AstraZeneca,Première dose,Nouvelle-Aquitaine,2023-02-05
+783,42,Pfizer,Deuxième dose,Occitanie,2023-07-29
+784,40,Johnson & Johnson,Booster,Auvergne-Rhône-Alpes,2023-08-19
+785,63,Moderna,Deuxième dose,Île-de-France,2023-11-15
+786,77,AstraZeneca,Première dose,Nouvelle-Aquitaine,2023-05-31
+787,53,Johnson & Johnson,Première dose,Île-de-France,2023-12-20
+788,25,Moderna,Première dose,Occitanie,2023-11-25
+789,69,Pfizer,Première dose,Auvergne-Rhône-Alpes,2023-07-16
+790,62,Johnson & Johnson,Booster,Provence-Alpes-Côte d'Azur,2023-09-27
+791,44,Pfizer,Deuxième dose,Île-de-France,2023-06-30
+792,41,Moderna,Deuxième dose,Île-de-France,2023-03-03
+793,27,AstraZeneca,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-08-16
+794,61,Pfizer,Première dose,Auvergne-Rhône-Alpes,2023-12-22
+795,38,Johnson & Johnson,Deuxième dose,Auvergne-Rhône-Alpes,2023-12-04
+796,26,Pfizer,Booster,Nouvelle-Aquitaine,2023-05-17
+797,69,Johnson & Johnson,Première dose,Auvergne-Rhône-Alpes,2023-12-20
+798,75,Johnson & Johnson,Première dose,Auvergne-Rhône-Alpes,2023-08-27
+799,31,Pfizer,Deuxième dose,Île-de-France,2023-09-15
+800,70,Moderna,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-05-28
+801,36,Pfizer,Booster,Nouvelle-Aquitaine,2023-02-07
+802,40,Johnson & Johnson,Première dose,Provence-Alpes-Côte d'Azur,2023-01-19
+803,49,Pfizer,Deuxième dose,Île-de-France,2023-12-07
+804,38,Johnson & Johnson,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-05-25
+805,43,AstraZeneca,Booster,Auvergne-Rhône-Alpes,2023-11-04
+806,18,Pfizer,Booster,Île-de-France,2023-07-09
+807,54,Johnson & Johnson,Deuxième dose,Île-de-France,2023-02-13
+808,32,Moderna,Booster,Nouvelle-Aquitaine,2023-06-03
+809,52,Moderna,Deuxième dose,Île-de-France,2023-10-10
+810,51,AstraZeneca,Première dose,Occitanie,2023-09-12
+811,62,AstraZeneca,Première dose,Provence-Alpes-Côte d'Azur,2023-05-03
+812,30,Moderna,Première dose,Nouvelle-Aquitaine,2023-10-15
+813,73,AstraZeneca,Deuxième dose,Occitanie,2023-01-04
+814,38,Moderna,Deuxième dose,Île-de-France,2023-11-15
+815,26,AstraZeneca,Deuxième dose,Auvergne-Rhône-Alpes,2023-12-25
+816,67,Johnson & Johnson,Première dose,Auvergne-Rhône-Alpes,2023-08-04
+817,40,AstraZeneca,Booster,Provence-Alpes-Côte d'Azur,2023-04-09
+818,56,Pfizer,Première dose,Provence-Alpes-Côte d'Azur,2023-07-25
+819,54,Moderna,Deuxième dose,Occitanie,2023-06-02
+820,41,Johnson & Johnson,Deuxième dose,Île-de-France,2023-06-17
+821,48,Johnson & Johnson,Deuxième dose,Occitanie,2023-07-03
+822,23,Johnson & Johnson,Première dose,Île-de-France,2023-10-21
+823,52,Johnson & Johnson,Première dose,Île-de-France,2023-01-11
+824,65,AstraZeneca,Deuxième dose,Île-de-France,2023-06-17
+825,63,Pfizer,Deuxième dose,Occitanie,2023-07-31
+826,59,Pfizer,Première dose,Nouvelle-Aquitaine,2023-05-24
+827,50,Johnson & Johnson,Première dose,Île-de-France,2023-07-20
+828,50,Pfizer,Booster,Provence-Alpes-Côte d'Azur,2023-11-01
+829,40,Moderna,Première dose,Provence-Alpes-Côte d'Azur,2023-06-10
+830,44,Johnson & Johnson,Booster,Occitanie,2023-11-03
+831,67,Moderna,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-05-31
+832,37,Johnson & Johnson,Première dose,Occitanie,2023-04-24
+833,37,Pfizer,Deuxième dose,Occitanie,2023-11-24
+834,43,AstraZeneca,Première dose,Nouvelle-Aquitaine,2023-09-21
+835,30,Johnson & Johnson,Première dose,Occitanie,2023-03-27
+836,22,Moderna,Booster,Auvergne-Rhône-Alpes,2023-04-20
+837,45,Johnson & Johnson,Deuxième dose,Île-de-France,2023-01-18
+838,28,Moderna,Deuxième dose,Auvergne-Rhône-Alpes,2023-01-05
+839,60,Moderna,Booster,Occitanie,2023-11-09
+840,52,Moderna,Deuxième dose,Occitanie,2023-11-26
+841,80,Johnson & Johnson,Première dose,Occitanie,2023-07-17
+842,26,Moderna,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-04-12
+843,48,Pfizer,Deuxième dose,Auvergne-Rhône-Alpes,2023-12-12
+844,38,Johnson & Johnson,Première dose,Occitanie,2023-09-08
+845,37,Pfizer,Booster,Provence-Alpes-Côte d'Azur,2023-03-21
+846,26,Moderna,Deuxième dose,Nouvelle-Aquitaine,2023-01-21
+847,76,Pfizer,Booster,Provence-Alpes-Côte d'Azur,2023-07-25
+848,40,Pfizer,Deuxième dose,Nouvelle-Aquitaine,2023-01-30
+849,53,Johnson & Johnson,Première dose,Provence-Alpes-Côte d'Azur,2023-12-14
+850,50,Johnson & Johnson,Booster,Nouvelle-Aquitaine,2023-01-09
+851,60,AstraZeneca,Deuxième dose,Île-de-France,2023-07-09
+852,53,Johnson & Johnson,Deuxième dose,Île-de-France,2023-04-26
+853,47,Pfizer,Booster,Occitanie,2023-07-04
+854,64,Pfizer,Deuxième dose,Auvergne-Rhône-Alpes,2023-12-01
+855,29,Moderna,Deuxième dose,Nouvelle-Aquitaine,2023-06-15
+856,64,Johnson & Johnson,Booster,Provence-Alpes-Côte d'Azur,2023-06-23
+857,29,Pfizer,Booster,Île-de-France,2023-02-23
+858,83,Pfizer,Deuxième dose,Nouvelle-Aquitaine,2023-03-12
+859,56,Moderna,Première dose,Île-de-France,2023-11-24
+860,38,Johnson & Johnson,Première dose,Occitanie,2023-09-16
+861,63,AstraZeneca,Première dose,Auvergne-Rhône-Alpes,2023-05-28
+862,67,Pfizer,Première dose,Provence-Alpes-Côte d'Azur,2023-05-22
+863,49,AstraZeneca,Booster,Occitanie,2023-05-12
+864,54,Moderna,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-07-10
+865,42,AstraZeneca,Première dose,Nouvelle-Aquitaine,2023-01-06
+866,38,Pfizer,Booster,Auvergne-Rhône-Alpes,2023-04-24
+867,44,AstraZeneca,Deuxième dose,Occitanie,2023-07-30
+868,54,AstraZeneca,Deuxième dose,Auvergne-Rhône-Alpes,2023-06-07
+869,80,Johnson & Johnson,Deuxième dose,Nouvelle-Aquitaine,2023-03-07
+870,49,Johnson & Johnson,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-02-13
+871,28,Johnson & Johnson,Booster,Auvergne-Rhône-Alpes,2023-04-16
+872,35,Moderna,Deuxième dose,Nouvelle-Aquitaine,2023-05-17
+873,75,Pfizer,Booster,Nouvelle-Aquitaine,2023-12-07
+874,30,Johnson & Johnson,Première dose,Auvergne-Rhône-Alpes,2023-04-08
+875,78,AstraZeneca,Première dose,Provence-Alpes-Côte d'Azur,2023-07-03
+876,24,Johnson & Johnson,Première dose,Auvergne-Rhône-Alpes,2023-11-22
+877,51,Johnson & Johnson,Première dose,Occitanie,2023-02-24
+878,32,Pfizer,Booster,Nouvelle-Aquitaine,2023-12-09
+879,50,Johnson & Johnson,Deuxième dose,Occitanie,2023-09-20
+880,70,Pfizer,Booster,Auvergne-Rhône-Alpes,2023-04-10
+881,56,AstraZeneca,Première dose,Occitanie,2023-02-26
+882,48,Pfizer,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-03-02
+883,50,AstraZeneca,Première dose,Provence-Alpes-Côte d'Azur,2023-03-18
+884,47,Moderna,Deuxième dose,Occitanie,2023-10-20
+885,55,Johnson & Johnson,Première dose,Occitanie,2023-01-15
+886,59,Moderna,Booster,Île-de-France,2023-10-08
+887,37,AstraZeneca,Deuxième dose,Occitanie,2023-09-25
+888,39,Johnson & Johnson,Première dose,Auvergne-Rhône-Alpes,2023-06-11
+889,40,AstraZeneca,Première dose,Île-de-France,2023-02-21
+890,52,Moderna,Première dose,Provence-Alpes-Côte d'Azur,2023-11-16
+891,73,Johnson & Johnson,Deuxième dose,Occitanie,2023-12-30
+892,44,AstraZeneca,Deuxième dose,Nouvelle-Aquitaine,2023-11-16
+893,52,Moderna,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-05-10
+894,31,AstraZeneca,Première dose,Nouvelle-Aquitaine,2023-07-02
+895,34,AstraZeneca,Première dose,Occitanie,2023-11-20
+896,41,Moderna,Booster,Auvergne-Rhône-Alpes,2023-12-08
+897,26,AstraZeneca,Booster,Île-de-France,2023-08-12
+898,49,AstraZeneca,Booster,Nouvelle-Aquitaine,2023-02-14
+899,49,Moderna,Deuxième dose,Nouvelle-Aquitaine,2023-01-21
+900,66,Pfizer,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-08-27
+901,45,Pfizer,Booster,Île-de-France,2023-09-17
+902,59,Pfizer,Booster,Occitanie,2023-01-23
+903,46,Johnson & Johnson,Première dose,Provence-Alpes-Côte d'Azur,2023-12-31
+904,45,Pfizer,Deuxième dose,Auvergne-Rhône-Alpes,2023-06-10
+905,50,Pfizer,Deuxième dose,Île-de-France,2023-03-28
+906,34,Johnson & Johnson,Première dose,Auvergne-Rhône-Alpes,2023-03-23
+907,33,Johnson & Johnson,Deuxième dose,Auvergne-Rhône-Alpes,2023-12-21
+908,51,Moderna,Première dose,Provence-Alpes-Côte d'Azur,2023-03-21
+909,46,Moderna,Première dose,Occitanie,2023-02-04
+910,77,Moderna,Première dose,Île-de-France,2023-05-11
+911,46,AstraZeneca,Booster,Provence-Alpes-Côte d'Azur,2023-06-11
+912,47,AstraZeneca,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-12-13
+913,41,AstraZeneca,Première dose,Provence-Alpes-Côte d'Azur,2023-05-21
+914,71,AstraZeneca,Booster,Île-de-France,2023-03-03
+915,80,Moderna,Deuxième dose,Nouvelle-Aquitaine,2023-05-10
+916,26,Johnson & Johnson,Première dose,Auvergne-Rhône-Alpes,2023-04-04
+917,44,AstraZeneca,Deuxième dose,Nouvelle-Aquitaine,2023-05-28
+918,58,AstraZeneca,Première dose,Nouvelle-Aquitaine,2023-10-17
+919,46,Johnson & Johnson,Première dose,Île-de-France,2023-04-29
+920,49,Moderna,Booster,Auvergne-Rhône-Alpes,2023-03-16
+921,49,Moderna,Deuxième dose,Occitanie,2023-09-12
+922,27,AstraZeneca,Deuxième dose,Occitanie,2023-03-24
+923,57,Johnson & Johnson,Deuxième dose,Nouvelle-Aquitaine,2023-10-14
+924,50,Moderna,Première dose,Nouvelle-Aquitaine,2023-06-22
+925,69,AstraZeneca,Booster,Provence-Alpes-Côte d'Azur,2023-02-04
+926,55,Pfizer,Deuxième dose,Nouvelle-Aquitaine,2023-06-17
+927,39,Moderna,Deuxième dose,Île-de-France,2023-11-16
+928,76,Moderna,Deuxième dose,Auvergne-Rhône-Alpes,2023-11-07
+929,54,AstraZeneca,Première dose,Auvergne-Rhône-Alpes,2023-09-27
+930,49,Pfizer,Booster,Provence-Alpes-Côte d'Azur,2023-03-24
+931,58,AstraZeneca,Première dose,Nouvelle-Aquitaine,2023-10-09
+932,36,Pfizer,Première dose,Auvergne-Rhône-Alpes,2023-01-19
+933,46,Johnson & Johnson,Deuxième dose,Île-de-France,2023-12-26
+934,38,Moderna,Première dose,Nouvelle-Aquitaine,2023-01-30
+935,76,Johnson & Johnson,Booster,Nouvelle-Aquitaine,2023-12-30
+936,56,AstraZeneca,Première dose,Provence-Alpes-Côte d'Azur,2023-12-21
+937,54,Pfizer,Booster,Nouvelle-Aquitaine,2023-01-02
+938,37,Johnson & Johnson,Deuxième dose,Auvergne-Rhône-Alpes,2023-01-07
+939,31,Johnson & Johnson,Première dose,Provence-Alpes-Côte d'Azur,2023-09-14
+940,25,Johnson & Johnson,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-07-26
+941,48,Moderna,Booster,Occitanie,2023-06-15
+942,84,Johnson & Johnson,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-12-06
+943,38,Moderna,Booster,Provence-Alpes-Côte d'Azur,2023-06-22
+944,65,AstraZeneca,Booster,Nouvelle-Aquitaine,2023-10-25
+945,63,Johnson & Johnson,Booster,Île-de-France,2023-08-29
+946,32,AstraZeneca,Deuxième dose,Auvergne-Rhône-Alpes,2023-02-14
+947,62,Johnson & Johnson,Booster,Nouvelle-Aquitaine,2023-12-07
+948,77,Moderna,Deuxième dose,Auvergne-Rhône-Alpes,2023-05-18
+949,60,Johnson & Johnson,Booster,Occitanie,2023-12-26
+950,71,Pfizer,Booster,Occitanie,2023-12-05
+951,28,Johnson & Johnson,Première dose,Île-de-France,2023-11-15
+952,38,Johnson & Johnson,Première dose,Île-de-France,2023-04-11
+953,49,AstraZeneca,Booster,Provence-Alpes-Côte d'Azur,2023-11-04
+954,56,Johnson & Johnson,Première dose,Nouvelle-Aquitaine,2023-04-21
+955,47,Moderna,Booster,Nouvelle-Aquitaine,2023-10-01
+956,44,Pfizer,Deuxième dose,Occitanie,2023-06-04
+957,43,Johnson & Johnson,Première dose,Nouvelle-Aquitaine,2023-04-23
+958,58,Johnson & Johnson,Booster,Île-de-France,2023-06-10
+959,53,AstraZeneca,Deuxième dose,Île-de-France,2023-05-11
+960,35,Pfizer,Booster,Île-de-France,2023-09-24
+961,59,AstraZeneca,Booster,Nouvelle-Aquitaine,2023-09-16
+962,49,AstraZeneca,Première dose,Occitanie,2023-12-31
+963,73,Pfizer,Deuxième dose,Nouvelle-Aquitaine,2023-09-18
+964,41,Moderna,Première dose,Provence-Alpes-Côte d'Azur,2023-04-06
+965,30,Pfizer,Première dose,Auvergne-Rhône-Alpes,2023-04-20
+966,39,Johnson & Johnson,Première dose,Île-de-France,2023-04-05
+967,37,Johnson & Johnson,Booster,Provence-Alpes-Côte d'Azur,2023-03-09
+968,69,Johnson & Johnson,Deuxième dose,Nouvelle-Aquitaine,2023-03-20
+969,64,Moderna,Deuxième dose,Auvergne-Rhône-Alpes,2023-07-02
+970,37,Pfizer,Première dose,Occitanie,2023-01-08
+971,33,Johnson & Johnson,Booster,Auvergne-Rhône-Alpes,2023-08-07
+972,18,Johnson & Johnson,Booster,Auvergne-Rhône-Alpes,2023-04-17
+973,41,Johnson & Johnson,Deuxième dose,Île-de-France,2023-07-01
+974,58,Pfizer,Première dose,Nouvelle-Aquitaine,2023-03-31
+975,77,Johnson & Johnson,Première dose,Occitanie,2023-03-06
+976,47,Pfizer,Deuxième dose,Occitanie,2023-01-15
+977,61,Pfizer,Première dose,Provence-Alpes-Côte d'Azur,2023-10-22
+978,43,Pfizer,Première dose,Provence-Alpes-Côte d'Azur,2023-01-14
+979,79,Johnson & Johnson,Deuxième dose,Auvergne-Rhône-Alpes,2023-01-01
+980,64,Pfizer,Booster,Nouvelle-Aquitaine,2023-11-25
+981,56,AstraZeneca,Booster,Provence-Alpes-Côte d'Azur,2023-02-01
+982,40,Johnson & Johnson,Deuxième dose,Nouvelle-Aquitaine,2023-12-21
+983,69,Moderna,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-07-07
+984,26,Pfizer,Deuxième dose,Auvergne-Rhône-Alpes,2023-06-16
+985,18,AstraZeneca,Deuxième dose,Provence-Alpes-Côte d'Azur,2023-01-21
+986,51,AstraZeneca,Première dose,Occitanie,2023-07-23
+987,62,Johnson & Johnson,Deuxième dose,Auvergne-Rhône-Alpes,2023-04-27
+988,37,Pfizer,Booster,Provence-Alpes-Côte d'Azur,2023-01-05
+989,35,Moderna,Booster,Provence-Alpes-Côte d'Azur,2023-10-27
+990,24,Pfizer,Première dose,Île-de-France,2023-01-12
+991,41,Moderna,Booster,Occitanie,2023-08-27
+992,37,Johnson & Johnson,Première dose,Occitanie,2023-07-30
+993,41,Johnson & Johnson,Deuxième dose,Nouvelle-Aquitaine,2023-04-25
+994,39,Johnson & Johnson,Première dose,Occitanie,2023-10-14
+995,50,AstraZeneca,Deuxième dose,Île-de-France,2023-09-04
+996,18,Moderna,Deuxième dose,Occitanie,2023-06-28
+997,63,AstraZeneca,Booster,Provence-Alpes-Côte d'Azur,2023-08-07
+998,45,Pfizer,Première dose,Auvergne-Rhône-Alpes,2023-12-26
+999,43,AstraZeneca,Deuxième dose,Nouvelle-Aquitaine,2023-09-05
+1000,41,AstraZeneca,Deuxième dose,Auvergne-Rhône-Alpes,2023-04-11
